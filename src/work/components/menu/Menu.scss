@@ -1,0 +1,50 @@
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+  font-family: inherit;
+  font-weight: bold;
+  color: inherit;
+  text-rendering: optimizelegibility;
+}
+
+.main-left-col h1 {
+  font-size: 24px;
+  font-weight: normal;
+  color: #FFF;
+  margin-bottom: 0;
+  font-family: "Marck Script", sans-serif;
+  margin-left: 2px;
+  background: rgba(0, 0, 0, 0.3);
+  -webkit-border-radius: 60px;
+  -moz-border-radius: 60px;
+  border-radius: 60px;
+  width: 100px;
+  height: 85px;
+  text-align: center;
+  line-height: 1;
+  padding: 25px 10px 10px 10px;
+  margin: 0 auto;
+}
+
+ul, ol {
+  padding: 0;
+  margin: 0 0 9px 25px;
+}
+
+.main-left-col .side-nav {
+  list-style: none;
+  margin: 20px 0 0 0;
+  border-bottom: 1px solid #414040;
+  border-top: 1px solid #232222;
+}
+
+li {
+  line-height: 18px;
+  display: list-item;
+  text-align: -webkit-match-parent;
+  list-style: none;
+}
+.span2 {
+  background: #03002E;
+  width: 170px;
+  height: 700px;
+}
